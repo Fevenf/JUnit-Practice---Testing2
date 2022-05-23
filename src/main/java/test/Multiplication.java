@@ -3,7 +3,7 @@ package test;
 
 public class Multiplication {
     public static void main(String[] args) {
-        System.out.println("The addition is " + multiplication (5, 5));
+        System.out.println("The Multiplication is " + multiplication (5, 5));
 
     }
 
